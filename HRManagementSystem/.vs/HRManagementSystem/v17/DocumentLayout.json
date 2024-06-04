@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9AEE6-01A1-4ECA-944E-7C562FAFC480}|HRManagementSystem\\HRManagementSystem.csproj|d:\\y2-s2-se-documents\\client-server application\\hrmanagementsystem\\hrmanagementsystem\\admin\\dashboard\\leaverecordelist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E4F9AEE6-01A1-4ECA-944E-7C562FAFC480}|HRManagementSystem\\HRManagementSystem.csproj|solutionrelative:hrmanagementsystem\\admin\\dashboard\\leaverecordelist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9AEE6-01A1-4ECA-944E-7C562FAFC480}|HRManagementSystem\\HRManagementSystem.csproj|d:\\y2-s2-se-documents\\client-server application\\hrmanagementsystem\\hrmanagementsystem\\admin\\dashboard\\leaverecordelist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F9AEE6-01A1-4ECA-944E-7C562FAFC480}|HRManagementSystem\\HRManagementSystem.csproj|solutionrelative:hrmanagementsystem\\admin\\dashboard\\leaverecordelist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9AEE6-01A1-4ECA-944E-7C562FAFC480}|HRManagementSystem\\HRManagementSystem.csproj|d:\\y2-s2-se-documents\\client-server application\\hrmanagementsystem\\hrmanagementsystem\\admin\\dashboard\\updateleaverecord.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F9AEE6-01A1-4ECA-944E-7C562FAFC480}|HRManagementSystem\\HRManagementSystem.csproj|solutionrelative:hrmanagementsystem\\admin\\dashboard\\updateleaverecord.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9AEE6-01A1-4ECA-944E-7C562FAFC480}|HRManagementSystem\\HRManagementSystem.csproj|d:\\y2-s2-se-documents\\client-server application\\hrmanagementsystem\\hrmanagementsystem\\admin\\dashboard\\addleaverecord.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E4F9AEE6-01A1-4ECA-944E-7C562FAFC480}|HRManagementSystem\\HRManagementSystem.csproj|solutionrelative:hrmanagementsystem\\admin\\dashboard\\addleaverecord.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9AEE6-01A1-4ECA-944E-7C562FAFC480}|HRManagementSystem\\HRManagementSystem.csproj|d:\\y2-s2-se-documents\\client-server application\\hrmanagementsystem\\hrmanagementsystem\\admin\\dashboard\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E4F9AEE6-01A1-4ECA-944E-7C562FAFC480}|HRManagementSystem\\HRManagementSystem.csproj|solutionrelative:hrmanagementsystem\\admin\\dashboard\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F9AEE6-01A1-4ECA-944E-7C562FAFC480}|HRManagementSystem\\HRManagementSystem.csproj|D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\hrmanagementsystem\\admin\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F9AEE6-01A1-4ECA-944E-7C562FAFC480}|HRManagementSystem\\HRManagementSystem.csproj|solutionrelative:hrmanagementsystem\\admin\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\HRManagementSystem\\Admin\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\Admin\\Login.aspx.cs",
+              "ToolTip": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\HRManagementSystem\\Admin\\Login.aspx.cs",
+              "RelativeToolTip": "HRManagementSystem\\Admin\\Login.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:22:14.33Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Addleaverecord.aspx",
+              "DocumentMoniker": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\HRManagementSystem\\Admin\\dashboard\\Addleaverecord.aspx",
+              "RelativeDocumentMoniker": "HRManagementSystem\\Admin\\dashboard\\Addleaverecord.aspx",
+              "ToolTip": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\HRManagementSystem\\Admin\\dashboard\\Addleaverecord.aspx",
+              "RelativeToolTip": "HRManagementSystem\\Admin\\dashboard\\Addleaverecord.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T14:26:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Leaverecordelist.aspx.cs",
+              "DocumentMoniker": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\HRManagementSystem\\Admin\\dashboard\\Leaverecordelist.aspx.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\Admin\\dashboard\\Leaverecordelist.aspx.cs",
+              "ToolTip": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\HRManagementSystem\\Admin\\dashboard\\Leaverecordelist.aspx.cs",
+              "RelativeToolTip": "HRManagementSystem\\Admin\\dashboard\\Leaverecordelist.aspx.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T14:25:34.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leaverecordelist.aspx",
+              "DocumentMoniker": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\HRManagementSystem\\Admin\\dashboard\\Leaverecordelist.aspx",
+              "RelativeDocumentMoniker": "HRManagementSystem\\Admin\\dashboard\\Leaverecordelist.aspx",
+              "ToolTip": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\HRManagementSystem\\Admin\\dashboard\\Leaverecordelist.aspx",
+              "RelativeToolTip": "HRManagementSystem\\Admin\\dashboard\\Leaverecordelist.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T14:25:31.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\HRManagementSystem\\Admin\\dashboard\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "HRManagementSystem\\Admin\\dashboard\\Dashboard.aspx",
+              "ToolTip": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\HRManagementSystem\\Admin\\dashboard\\Dashboard.aspx",
+              "RelativeToolTip": "HRManagementSystem\\Admin\\dashboard\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-04T14:05:45.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Updateleaverecord.aspx.cs",
+              "DocumentMoniker": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\HRManagementSystem\\Admin\\dashboard\\Updateleaverecord.aspx.cs",
+              "RelativeDocumentMoniker": "HRManagementSystem\\Admin\\dashboard\\Updateleaverecord.aspx.cs",
+              "ToolTip": "D:\\Y2-S2-SE-Documents\\Client-Server Application\\HRManagementSystem\\HRManagementSystem\\Admin\\dashboard\\Updateleaverecord.aspx.cs",
+              "RelativeToolTip": "HRManagementSystem\\Admin\\dashboard\\Updateleaverecord.aspx.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:16:58.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
